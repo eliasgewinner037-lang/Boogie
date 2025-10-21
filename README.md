@@ -6,4 +6,4 @@
 </a>
 
 Boogie is non-official and not endorsed by Epic Games in any way.
-Epic Games, Fortnite, and all associated properties are trademarks or registered trademarks of Epic Games, Inc.
+Epic Games, Fortnite dd, and all associated properties are trademarks or registered trademarks of Epic Games, Inc.
